@@ -1,5 +1,6 @@
 Live demo ==> https://saloni680.github.io/WApplication/
 
+
 Description
 This weather application allows users to search for weather information by city name or pincode. It displays real-time weather data including temperature, weather condition, feels-like temperature, wind speed. The application also provides an option to toggle between light and dark mode for better user experience.
 
